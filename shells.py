@@ -5,7 +5,7 @@ import sys
 import socket
 import netifaces as ni
 
-#IF YOU HAVE ANOTHER INTRTNET INTERFACE CHANGE eth0
+#IF YOU HAVE ANOTHER INTERTNET INTERFACE CHANGE eth0
 def getIp():
     try:
         ni.ifaddresses('eth0')
