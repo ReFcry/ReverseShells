@@ -11,7 +11,7 @@ The port 1337 and the interface eth0 was configurated by default, they can be ch
 
 Run -h or –help to show all the options.
 
-The next reverse shells ware configurated in the next script:
+The next reverse shells were configurated in the next script:
 * Bash 
 * Perl 
 * Python 
